@@ -11,6 +11,4 @@ The main functions that this scraper should have when fully developed are:
 - Ads removed from the webpage (sold or rented homes?) [...]
 - Price reductions [...]
 
-<label for="file"> Progress:</label>
-<progress id="file" value="80" max="100"> 80% </progress>
-
+🔳🔳🔳🔳🔳🔳🔳🔳⬜️⬜️ 80% (?)

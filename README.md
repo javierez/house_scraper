@@ -14,4 +14,3 @@ The main functions that this scraper should have when fully developed are:
 🔳🔳🔳🔳🔳🔳🔳🔳⬜️⬜️ 80% (?)
 
 
-![alt text]([http://url/to/img.png](https://img.staticmb.com/mbcontent//images/uploads/2022/12/Most-Beautiful-House-in-the-World.jpg))

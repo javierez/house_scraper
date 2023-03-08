@@ -14,7 +14,12 @@ The main functions that this scraper should have when fully developed are:
 🔳🔳🔳🔳🔳🔳🔳🔳⬜️⬜️ 80% (?)
 
 
-*Conlusions*
-Once I had a significantly big data sample (1200 flats scraped - 4 different neighborhoods), I tried to forecast the price based on all the attributes that I could retrieve from the webpage (floor, area, elevator, rooms, bathrooms, etc). The forecast was not as accurate as ...to be continued
+## Conclusions
+Once I had a significantly big data sample (1200 flats scraped - 4 different neighborhoods), I tried to forecast the price based on all the attributes that I could retrieve from the webpage (floor, area, elevator, rooms, bathrooms, etc). **Price published do not always represent the sale price.** Therefore, forecasts were not as accurate as expected because people can advertise any house at any price. Sale prices represent more faithfully the value of the house advertised.
 
+Unaccurate prices limit the tool's main functionalities (profitability or price given the desired profitability).
+Considering the existing usability limitations, I will not continue developing the tool.
+
+It was a great experience learning how to scrape, avoiding scraping traps and some metrics related to Real Estate investments.
+Thanks for reading!
 

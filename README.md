@@ -15,6 +15,6 @@ The main functions that this scraper should have when fully developed are:
 
 
 *Conlusions*
-Once I had a significantly big data sample (1200 flats scraped - 4 different neighborhoods), I tried to forecast the price based on all the attributes that I could retrieve from the webpage (floor, area, elevator, rooms, bathrooms, etc). The forecast was not as accurate as 
+Once I had a significantly big data sample (1200 flats scraped - 4 different neighborhoods), I tried to forecast the price based on all the attributes that I could retrieve from the webpage (floor, area, elevator, rooms, bathrooms, etc). The forecast was not as accurate as ...to be continued
 
 
